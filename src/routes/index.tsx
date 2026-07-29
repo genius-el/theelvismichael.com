@@ -24,7 +24,7 @@ export const Route = createFileRoute("/")({
       { property: "og:url", content: "/" },
     ],
     links: [
-      { rel: "icon", href: "/favicon.ico" },
+      { rel: "icon", href: "/favicon.png" },
       { rel: "canonical", href: "/" },
     ],
   }),
