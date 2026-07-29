@@ -36,7 +36,7 @@ export function Nav() {
             aria-hidden
             className="inline-block h-2 w-2 rounded-full bg-accent shadow-[0_0_12px_var(--accent)]"
           />
-          <span className="text-foreground">Elvis Ekene</span>
+          <span className="text-foreground">Anene Elvis Ekene</span>
           {/* <span className="text-muted-foreground hidden sm:inline">— Frontend Engineer</span> */}
         </Link>
 
