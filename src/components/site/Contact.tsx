@@ -40,7 +40,7 @@ export function Contact() {
                 </a>
 
                 <a
-                  href="https://linkedin.com/in/elvis-micha-el"
+                  href="https://linkedin.com/in/elvismichael"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-flex items-center gap-2 rounded-full border border-border-strong px-5 py-3 text-sm font-medium hover:bg-background/40 transition-colors"
